@@ -15,7 +15,6 @@ I created an algorithm to automate updating the `"allow_list.txt"` file and remo
 
 <h1>Walkthrough: </h1>
 
-<br>
 
 <h2>Step 1: Open the file that contains the allow list</h2>
 <p>
