@@ -4,7 +4,7 @@
 
 <h2>Description: </h2>
 
-In this project, I will be explaining a step-by-step process about how I was able to open a file, read the contents within the file, write contents within the file, and create an algorithm that can automatically update a file using Python.
+In this project, I will be explaining a step-by-step process about how I was able to open a file, read the contents within the file, write contents within the file, and create an algorithm that can update a file using Python.
 
 <h2>Scenario</h2>
 
